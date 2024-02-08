@@ -1,0 +1,19 @@
+<MyGrid>:
+    GridLayout:
+        cols: 2
+        TextInput:
+            id: input
+            multiline: False
+            hint_text: "Text you want to Translate"
+            background_color: 0, 0, 0, 1
+            foreground_color: 1, 1, 1, 1
+            font_size: 35
+        Button:
+            text: "Click here"
+            font_size: 40
+            on_press: root.translate()
+
+    Button:
+        text: ''
+        font_size: 40
+        on_press: pass
