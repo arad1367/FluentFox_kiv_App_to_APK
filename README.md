@@ -18,10 +18,12 @@ Check main.py to see all codes. Meanwhile you can have 2 files .py and .kv
 - Kivy
 
 ### Installation
+``` pip install kivy
+pip install googletrans ```
 
 1. Clone the repo
-```sh
-   git clone https://github.com/arad1367/FluentFox_kiv_App_to_APK.git```
+
+```git clone https://github.com/arad1367/FluentFox_kiv_App_to_APK.git```
 Install Python and Kivy if you haven't already.
 
 Usage
@@ -36,4 +38,4 @@ https://giltech-megoldasok.com/
 info@giltech-support.co.uk
 pejman.ebrahimi77@gmail.com
 
-Project Link: https://github.com/arad1367/FluentFox_kiv_App_to_APK
+```` Project Link: https://github.com/arad1367/FluentFox_kiv_App_to_APK ```
