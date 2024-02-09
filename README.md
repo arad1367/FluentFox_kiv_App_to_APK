@@ -18,24 +18,24 @@ Check main.py to see all codes. Meanwhile you can have 2 files .py and .kv
 - Kivy
 
 ### Installation
-``` pip install kivy
-pip install googletrans ```
 
-1. Clone the repo
+`pip install kivy` 
+`pip install googletrans`
 
-```git clone https://github.com/arad1367/FluentFox_kiv_App_to_APK.git```
+### Clone the repo
+`git clone https://github.com/arad1367/FluentFox_kiv_App_to_APK.git`
 Install Python and Kivy if you haven't already.
 
-Usage
+### Usage
 - Run the app.
 - Input text or select a language to translate.
 - Enjoy seamless translation into English!
 - Contributing
 - Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Contact
+### Contact
 https://giltech-megoldasok.com/
 info@giltech-support.co.uk
 pejman.ebrahimi77@gmail.com
 
-```` Project Link: https://github.com/arad1367/FluentFox_kiv_App_to_APK ```
+` Project Link: https://github.com/arad1367/FluentFox_kiv_App_to_APK `
