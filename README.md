@@ -34,8 +34,10 @@ Install Python and Kivy if you haven't already.
 - Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 ### Contact
-https://giltech-megoldasok.com/
+`https://giltech-megoldasok.com/`
+
 info@giltech-support.co.uk
+
 pejman.ebrahimi77@gmail.com
 
 ` Project Link: https://github.com/arad1367/FluentFox_kiv_App_to_APK `
